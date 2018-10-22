@@ -13,7 +13,7 @@ const Logo = () => {
       >
         <div className="Tilt-inner pa3">
           {" "}
-          <img src={face} style={{ paddingTop: "5px" }} />{" "}
+          <img src={face} alt="" style={{ paddingTop: "5px" }} />{" "}
         </div>
       </Tilt>
     </div>
